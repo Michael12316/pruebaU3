@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022501271721",
+    "project_id": "fir-u3-5a79e",
+    "storage_bucket": "fir-u3-5a79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022501271721:android:cd63b6f3c42da6711c91b8",
+        "android_client_info": {
+          "package_name": "com.michael_leal.aplicacion3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022501271721-munrv5kr4qkft7fkhdpnr9tje36691v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjTC0xCMiAB-W57tUiAiXxKXtacfdVzpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022501271721-munrv5kr4qkft7fkhdpnr9tje36691v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
